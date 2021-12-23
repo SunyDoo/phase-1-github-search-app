@@ -11,3 +11,8 @@
 ul {
   list-style: none;
 }
+
+#avatar{
+    width: 100px;
+    height: auto;
+}
